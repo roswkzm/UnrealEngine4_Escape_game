@@ -22,4 +22,4 @@ https://drive.google.com/file/d/1jbcS2o6pJGSrFJTIkMec5-V_mIju9El0/view?usp=shari
 
 ⬆⬆⬆ 소스코드, 최종 계획서, 실행 영상등이 포함되어있습니다. ⬆⬆⬆
 
-Github의 용량제한 때문에 G-drive 링크를 통해 접근할 수 있습니다.
+Github의 용량제한 때문에 G-drive 링크를 통해 접근할 수 있습니다..
