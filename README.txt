@@ -13,7 +13,7 @@
 * Blueprints
 * Marketplace의 free Material 사용
 
-[![Video Label](https://user-images.githubusercontent.com/86874699/149650405-dbc9246f-7262-4cc1-93fd-5fddb8ecaefc.png)](https://youtu.be/Sv1EDJa7ooE)
+[![Video Label](https://i9.ytimg.com/vi_webp/Sv1EDJa7ooE/mqdefault.webp?v=61e3c506&sqp=CMiJj48G&rs=AOn4CLD6dPtuyAr8QaIXY2bLOOYl9fljEg)](https://youtu.be/Sv1EDJa7ooE)
 
 ⬆⬆⬆ 클릭시 실행 영상으로 이동 ⬆⬆⬆
 
