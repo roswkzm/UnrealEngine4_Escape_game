@@ -19,7 +19,7 @@
 * Blueprints
 * Marketplace의 free Material 사용
 
-[![Video Label](https://i9.ytimg.com/vi_webp/Sv1EDJa7ooE/mqdefault.webp?v=61e3c506&sqp=CPSLj48G&rs=AOn4CLBvwVO1sENl_VfvEvE8KqB3HZ7JWw)](https://www.youtube.com/watch?v=Sv1EDJa7ooE)
+[![Video Label](https://i9.ytimg.com/vi_webp/Sv1EDJa7ooE/mqdefault.webp?v=61e3c506&sqp=CPT0no8G&rs=AOn4CLCEeR_LkUr-cc-Tykdg31Kmg_tjeQ)](https://www.youtube.com/watch?v=Sv1EDJa7ooE)
 
 ⬆⬆⬆ 클릭시 실행 영상으로 이동 ⬆⬆⬆
 
